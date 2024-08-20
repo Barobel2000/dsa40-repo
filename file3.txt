@@ -1,0 +1,1 @@
+This is the third file created for the git class by name 'file3.txt'
